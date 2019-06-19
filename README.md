@@ -12,7 +12,7 @@ Things you need to install to run the script and how install them.
 
 ## How to run
 Example: 
-> ./main.sh -i <input_file> -o \<output_file>
+> python main.py -i <input_file> -o \<output_file>
  
 ## License
 
