@@ -1,4 +1,4 @@
-# Test of E-mail Leaks 
+# Test of E-mails Leaks 
 System to get statistics of leaks from e-mails list.
 
 ## Getting Started
