@@ -1,7 +1,7 @@
 from selenium import webdriver
 import argparse, time, re
-from lib.leaks import Leaks
-from lib.plot_leaks import start_plot
+from leak.leaks import Leaks
+from leak.plot_leaks import start_plot
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--input_file", required=True, help="Path to the emails file")
